@@ -1,0 +1,428 @@
+TCoreDataPerf
+v7
+r0
+t338400509.931926
+cCheck dependencies
+cProcessInfoPlistFile /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/Info.plist CoreDataPerf-Info.plist
+cCompileXIB /Users/charlottepitchford/Apps/CoreDataPerf/MainWindow.xib
+cCompileXIB /Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.xib
+cProcessPCH /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch.gch CoreDataPerf_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf.momd /Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf.xcdatamodeld
+cCompileC build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/main.o /Users/charlottepitchford/Apps/CoreDataPerf/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/CoreDataPerfAppDelegate.o /Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/PerformanceTuningViewController.o /Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.h
+c000000004E7B59110000000000000489
+t1316706577
+s1161
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"PerformanceTuningViewController.h"
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m
+c000000004E7B5D690000000000002640
+t1316707689
+s9792
+i"CoreDataPerfAppDelegate.h"
+i"PerformanceTuningViewController.h"
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.h
+c000000004E7B56B20000000000000104
+t1316705970
+s260
+i<UIKit/UIKit.h>
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.m
+c000000004E7B56B200000000000005D5
+t1316705970
+s1493
+i"PerformanceTuningViewController.h"
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.xib
+c000000004E7B56B20000000000001898
+t1316705970
+s6296
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf.xcdatamodeld
+c000000004E7B58BF0000000000000088
+t1316706495
+s136
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf_Prefix.pch
+c000000004E7B563F000000000000016C
+t1316705855
+s364
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/MainWindow.xib
+c000000004E7B563E00000000000021E3
+t1316705854
+s8675
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/CoreDataPerf.LinkFileList
+c000000004E7B5D7000000000000001C9
+t1316707696
+s457
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/CoreDataPerfAppDelegate.o
+t2
+s0
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/PerformanceTuningViewController.o
+t1316707709
+s37920
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/main.o
+t1316707709
+s6312
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app
+t2
+s0
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app.dSYM
+t2
+s0
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf
+t2
+s0
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf.momd
+t1316707709
+s136
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/Info.plist
+t1316707697
+s611
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/MainWindow.nib
+t1316707700
+s989
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/PerformanceTuningViewController.nib
+t1316707700
+s764
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/PkgInfo
+t1316707697
+s8
+
+N/Users/charlottepitchford/Apps/CoreDataPerf/main.m
+c000000004E7B563F000000000000016B
+t1316705855
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch.gch
+t1316707708
+s16326640
+
+NCoreDataPerf-Info.plist
+c000000004E7B563E000000000000038D
+t1316705854
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338400496#338400497#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/CoreDataPerfAppDelegate.o /Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338400509.667397
+e338400509.841670
+r0
+xCompileC
+xbuild/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/CoreDataPerfAppDelegate.o
+x/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m: In function '-[CoreDataPerfAppDelegate loadData]':
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:211: error: redefinition of 'results'
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:200: error: previous definition of 'results' was here
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:223: error: redefinition of 'set'
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:217: error: previous definition of 'set' was here
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:232: warning: implicit declaration of function 'about'
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m: In function '-[CoreDataPerfAppDelegate insertObjectForName:withName:]':
+o/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:242: warning: passing argument 2 of 'setValue:forKey:' from incompatible pointer type
+o{standard input}:716:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000008$pb"
+o{standard input}:716:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+o{standard input}:708:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000008$pb"
+o{standard input}:708:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:702:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000008$pb"
+o{standard input}:702:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:699:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000008$pb"
+o{standard input}:699:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+o{standard input}:667:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:667:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:651:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"
+o{standard input}:651:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:634:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"
+o{standard input}:634:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:631:non-relocatable subtraction expression, "L_NSSQLiteStoreType$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:631:symbol: "L_NSSQLiteStoreType$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:625:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:625:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:616:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:616:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:610:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000007$pb"
+o{standard input}:610:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:603:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000007$pb"
+o{standard input}:603:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:600:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000007$pb"
+o{standard input}:600:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:595:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:595:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:584:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"
+o{standard input}:584:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:577:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:577:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:567:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:567:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:558:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:558:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:511:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:511:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:501:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000006$pb"
+o{standard input}:501:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:495:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000006$pb"
+o{standard input}:495:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:492:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000006$pb"
+o{standard input}:492:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:487:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:487:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:477:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"
+o{standard input}:477:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:469:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"
+o{standard input}:469:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:466:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000006$pb"
+o{standard input}:466:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:457:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:457:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:448:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:448:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:393:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:393:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"
+o{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:377:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:377:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:369:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000005$pb"
+o{standard input}:369:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:363:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000005$pb"
+o{standard input}:363:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:360:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000005$pb"
+o{standard input}:360:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:355:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:355:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:344:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000005$pb"
+o{standard input}:344:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:334:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:334:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:325:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"
+o{standard input}:325:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:286:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+o{standard input}:286:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:274:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000004$pb"
+o{standard input}:274:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:266:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000004$pb"
+o{standard input}:266:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:255:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"
+o{standard input}:255:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:214:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"
+o{standard input}:214:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:160:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
+o{standard input}:160:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:116:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:116:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:96:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+o{standard input}:96:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:90:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+o{standard input}:90:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:76:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:76:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:68:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:68:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:61:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:61:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:55:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:55:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_NSSQLiteStoreType$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+lSLF07#2@85"Compile /Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m338400509#338400509#0(17695"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m: In function '-[CoreDataPerfAppDelegate loadData]':/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:211: error: redefinition of 'results'/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:200: error: previous definition of 'results' was here/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:223: error: redefinition of 'set'/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:217: error: previous definition of 'set' was here/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:232: warning: implicit declaration of function 'about'/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m: In function '-[CoreDataPerfAppDelegate insertObjectForName:withName:]':/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m:242: warning: passing argument 2 of 'setValue:forKey:' from incompatible pointer type{standard input}:716:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000008$pb"{standard input}:716:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:708:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000008$pb"{standard input}:708:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:702:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000008$pb"{standard input}:702:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:699:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000008$pb"{standard input}:699:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression{standard input}:667:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"{standard input}:667:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:651:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"{standard input}:651:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:634:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"{standard input}:634:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:631:non-relocatable subtraction expression, "L_NSSQLiteStoreType$non_lazy_ptr" minus "L00000000007$pb"{standard input}:631:symbol: "L_NSSQLiteStoreType$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:625:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"{standard input}:625:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:616:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:616:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:610:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000007$pb"{standard input}:610:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:603:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000007$pb"{standard input}:603:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:600:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000007$pb"{standard input}:600:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:595:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"{standard input}:595:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:584:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"{standard input}:584:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:577:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:577:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:567:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"{standard input}:567:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:558:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" minus "L00000000007$pb"{standard input}:558:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:511:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"{standard input}:511:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:501:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000006$pb"{standard input}:501:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:495:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000006$pb"{standard input}:495:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:492:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000006$pb"{standard input}:492:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:487:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"{standard input}:487:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:477:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000006$pb"{standard input}:477:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:469:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"{standard input}:469:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:466:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000006$pb"{standard input}:466:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:457:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"{standard input}:457:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:448:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" minus "L00000000006$pb"{standard input}:448:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:393:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"{standard input}:393:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:377:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"{standard input}:377:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:369:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000005$pb"{standard input}:369:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:363:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000005$pb"{standard input}:363:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:360:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000005$pb"{standard input}:360:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:355:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"{standard input}:355:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:344:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000005$pb"{standard input}:344:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:334:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"{standard input}:334:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:325:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" minus "L00000000005$pb"{standard input}:325:symbol: "L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:286:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"{standard input}:286:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:274:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000004$pb"{standard input}:274:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:266:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000004$pb"{standard input}:266:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:255:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000004$pb"{standard input}:255:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:214:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000003$pb"{standard input}:214:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:160:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:160:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:116:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:116:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:110:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:110:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:102:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:96:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"{standard input}:96:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:90:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"{standard input}:90:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:83:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:83:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:76:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:76:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:68:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:68:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:61:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:61:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:55:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:55:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectContext_$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CoreDataPerfAppDelegate.managedObjectModel_$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CoreDataPerfAppDelegate.persistentStoreCoordinator_$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_NSSQLiteStoreType$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_266(4@25"Redefinition of 'results'338400509#130#116#0(6@77"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m338400489#211#0#211#0#19"redefinition of '*'0(13@41"Previous definition of 'results' was here338400509#246#132#0(6@77"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m338400489#200#0#200#0#35"previous definition of '*' was here0(4@21"Redefinition of 'set'338400509#378#112#0(6@77"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m338400489#223#0#223#0#19"redefinition of '*'0(13@37"Previous definition of 'set' was here338400509#490#128#0(6@77"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m338400489#217#0#217#0#35"previous definition of '*' was here0(22@40"Implicit declaration of function 'about'338400509#618#133#0(6@77"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m338400489#232#0#232#0#36"implicit declaration of function '*'0(22@71"Passing argument 2 of 'setValue:forKey:' from incompatible pointer type338400509#902#164#0(6@77"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m338400489#242#0#242#0#56"passing argument * of '*' from incompatible pointer type0(0#0#77"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m8614461440#2115"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-generated-files.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-own-target-headers.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-project-headers.hmap -F/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources -include /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch -c /Users/charlottepitchford/Apps/CoreDataPerf/Classes/CoreDataPerfAppDelegate.m -o /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/CoreDataPerfAppDelegate.o1#
+
+CCompileC build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/PerformanceTuningViewController.o /Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338400509.841781
+e338400509.931523
+r1
+xCompileC
+xbuild/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/PerformanceTuningViewController.o
+x/Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.m338400509#338400509#0(0"0(0#0#85"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.m8609738752#2131"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-generated-files.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-own-target-headers.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-project-headers.hmap -F/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources -include /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch -c /Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.m -o /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/PerformanceTuningViewController.o0#
+
+CCompileC build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/main.o /Users/charlottepitchford/Apps/CoreDataPerf/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338400508.959690
+e338400509.667284
+r1
+xCompileC
+xbuild/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/main.o
+x/Users/charlottepitchford/Apps/CoreDataPerf/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/charlottepitchford/Apps/CoreDataPerf/main.m338400508#338400509#0(0"0(0#0#50"/Users/charlottepitchford/Apps/CoreDataPerf/main.m8616662240#2069"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-generated-files.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-own-target-headers.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-project-headers.hmap -F/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources -include /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch -c /Users/charlottepitchford/Apps/CoreDataPerf/main.m -o /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.xib
+s338400497.269679
+e338400500.523454
+r1
+xCompileXIB
+x/Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.xib
+lSLF07#2@54"CompileXIB Classes/PerformanceTuningViewController.xib338400497#338400500#0(0"0(0#0#87"/Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.xib8615047296#640"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/PerformanceTuningViewController.nib /Users/charlottepitchford/Apps/CoreDataPerf/Classes/PerformanceTuningViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/charlottepitchford/Apps/CoreDataPerf/MainWindow.xib
+s338400497.102658
+e338400500.523178
+r1
+xCompileXIB
+x/Users/charlottepitchford/Apps/CoreDataPerf/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib338400497#338400500#0(0"0(0#0#58"/Users/charlottepitchford/Apps/CoreDataPerf/MainWindow.xib8616473568#590"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/MainWindow.nib /Users/charlottepitchford/Apps/CoreDataPerf/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf.momd /Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf.xcdatamodeld
+s338400508.958218
+e338400509.666774
+r1
+xDataModelVersionCompile
+x/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf.momd
+x/Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf.xcdatamodeld
+lSLF07#2@112"DataModelVersionCompile build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf.momd CoreDataPerf.xcdatamodeld338400508#338400509#0(0"0(0#0#69"/Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf.xcdatamodeld8610057056#416"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf.xcdatamodeld /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf.momd0#
+
+CGenerateDSYMFile /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app.dSYM /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf
+r0
+
+CLd /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/CoreDataPerf normal i386
+r0
+
+CProcessInfoPlistFile /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/Info.plist CoreDataPerf-Info.plist
+s338400496.971893
+e338400497.102489
+r1
+xProcessInfoPlistFile
+x/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/Info.plist
+xCoreDataPerf-Info.plist
+lSLF07#2@31"Process CoreDataPerf-Info.plist338400497#338400497#0(0"0(0#0#67"/Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf-Info.plist31525614006435944#509"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreDataPerf-Info.plist -genpkginfo /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app/Info.plist0#
+
+CProcessPCH /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch.gch CoreDataPerf_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s338400500.523611
+e338400508.957876
+r1
+xProcessPCH
+x/var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch.gch
+xCoreDataPerf_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile CoreDataPerf_Prefix.pch338400500#338400508#0(0"0(0#0#67"/Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf_Prefix.pch8611230624#1951"    cd /Users/charlottepitchford/Apps/CoreDataPerf    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-generated-files.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-own-target-headers.hmap -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-all-target-headers.hmap -iquote /Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/CoreDataPerf-project-headers.hmap -F/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator -I/Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/include -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources/i386 -I/Users/charlottepitchford/Apps/CoreDataPerf/build/CoreDataPerf.build/Debug-iphonesimulator/CoreDataPerf.build/DerivedSources -c /Users/charlottepitchford/Apps/CoreDataPerf/CoreDataPerf_Prefix.pch -o /var/folders/vO/vOa49aUBGiiQY3AWWj8XC++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataPerf_Prefix-bkvvnsjfrituxyfmihcvqlhmnwch/CoreDataPerf_Prefix.pch.gch0#
+
+CTouch /Users/charlottepitchford/Apps/CoreDataPerf/build/Debug-iphonesimulator/CoreDataPerf.app
+r0
+
